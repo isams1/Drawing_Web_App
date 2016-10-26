@@ -1,0 +1,1 @@
+This folder contain all of required media for our project like Javasript, Image, CSS,..
